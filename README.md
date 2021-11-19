@@ -18,7 +18,7 @@ Currently learning:</br></br>
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   2 hrs 40 mins   █████████████████████████   99.58 % 
 ```
 <!--END_SECTION:waka-->
 

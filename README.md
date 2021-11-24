@@ -1,11 +1,11 @@
-![MasterHead](https://github.com/SmgTR/SmgTR/blob/main/banner.png)
+![MasterHead](https://github.com/SmgTR/SmgTR/blob/main/banner2.png)
 
 
 ## Hi, I’m @SmgTR  <img  alt="Hello" width="20" height="20" src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif">
 
 ### Contact me:</br>
 
-
+![](https://komarev.com/ghpvc/?username=SmgTR)
 
 <a href="https://pl.linkedin.com/in/tomasz-rusnak" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp; <a href="mailto:tomaszrusnakjs@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 

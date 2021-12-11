@@ -20,10 +20,10 @@ Currently learning:</br></br>
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 21 mins   ██████████████▒░░░░░░░░░░   57.29 % 
-JSON         2 hrs 11 mins   █████████▒░░░░░░░░░░░░░░░   37.46 % 
-Git Config   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+TypeScript   2 hrs 21 mins   ████████████░░░░░░░░░░░░░   48.42 % 
+JSON         2 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   45.25 % 
+Git Config   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 <!--END_SECTION:waka-->
 

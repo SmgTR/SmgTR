@@ -20,7 +20,8 @@ Currently learning:</br></br>
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON         5 mins          █████████████░░░░░░░░░░░░   52.25 % 
+HTML         5 mins          ████████████░░░░░░░░░░░░░   47.57 % 
 ```
 <!--END_SECTION:waka-->
 

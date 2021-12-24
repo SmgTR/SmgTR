@@ -20,7 +20,7 @@ Currently learning:</br></br>
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   5 hrs 24 mins   █████████████████████████   99.90 % 
+TypeScript   4 hrs 37 mins   █████████████████████████   99.88 % 
 ```
 <!--END_SECTION:waka-->
 

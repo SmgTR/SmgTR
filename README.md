@@ -24,7 +24,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-
+<a href="https://wakatime.com/@fd9276be-5219-40ff-877c-08ffa768c1a9"><img src="https://wakatime.com/badge/user/fd9276be-5219-40ff-877c-08ffa768c1a9.svg" alt="Total time coded since Nov 19 2021" /></a>
 
 <!---
 SmgTR/SmgTR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -20,7 +20,10 @@ Currently learning:</br></br>
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   4 hrs 54 mins   ███████████████████▓░░░░░   78.40 % 
+JSON         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Other        28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Bash         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 <!--END_SECTION:waka-->
 

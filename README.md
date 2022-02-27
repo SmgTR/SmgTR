@@ -21,10 +21,9 @@ Currently learning:</br></br>
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   8 hrs 58 mins   ███████████████████████▒░   92.96 %
-SCSS         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+TypeScript   4 hrs 49 mins   █████████████████████░░░░   83.69 %
+SCSS         51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->

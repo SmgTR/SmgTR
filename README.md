@@ -19,12 +19,14 @@ Currently learning:</br></br>
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   8 hrs 58 mins   ███████████████████████▒░   92.96 % 
-SCSS         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript   8 hrs 58 mins   ███████████████████████▒░   92.96 %
+SCSS         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
+
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com/@fd9276be-5219-40ff-877c-08ffa768c1a9"><img src="https://wakatime.com/badge/user/fd9276be-5219-40ff-877c-08ffa768c1a9.svg" alt="Total time coded since Nov 19 2021" /></a>

@@ -23,10 +23,10 @@ Week stats:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 20 mins   █████████████████░░░░░░░░   68.04 %
-Ruby         1 hr 49 mins    ███████░░░░░░░░░░░░░░░░░░   28.62 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+TypeScript   4 hrs 20 mins   ████████████████████████▒   96.84 %
+Ruby         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+SCSS         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->

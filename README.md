@@ -23,7 +23,7 @@ Week stats:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

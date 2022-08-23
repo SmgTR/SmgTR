@@ -23,7 +23,7 @@ Week stats:
 <!--START_SECTION:waka-->
 
 ```text
-Other        2 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.51 %
+Other        2 hrs 2 mins    ███████████░░░░░░░░░░░░░░   44.13 %
 ```
 
 <!--END_SECTION:waka-->

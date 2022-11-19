@@ -23,8 +23,9 @@ Week stats:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   12 hrs 41 mins  ██████████████████████░░░   87.99 %
-Other        39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+TypeScript   18 hrs 21 mins  ██████████████████████░░░   87.46 %
+JSON         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Other        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->

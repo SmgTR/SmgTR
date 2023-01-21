@@ -23,7 +23,12 @@ Week stats:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Ruby         51 mins         ██████████████████▒░░░░░░   73.78 %
+ERB          9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+TypeScript   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+YAML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->

@@ -23,7 +23,11 @@ Week stats:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML         17 mins         ██████████▓░░░░░░░░░░░░░░   42.35 %
+JSON         15 mins         █████████▒░░░░░░░░░░░░░░░   37.71 %
+TypeScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+Bash         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

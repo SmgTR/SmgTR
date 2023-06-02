@@ -22,7 +22,7 @@ Week stats:
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Other        1 hr 13 mins    █████████▓░░░░░░░░░░░░░░░   38.72 %
 TypeScript   56 mins         ███████▒░░░░░░░░░░░░░░░░░   29.78 %
 YAML         28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %

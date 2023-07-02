@@ -23,8 +23,7 @@ Week stats:
 <!--START_SECTION:waka-->
 
 ```txt
-ERB    18 mins         ███████████████████▒░░░░░   77.70 %
-Ruby   5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

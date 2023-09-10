@@ -23,11 +23,7 @@ Week stats:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 33 mins   ████████████████████▒░░░░   81.42 %
-Python       22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Docker       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Python   22 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

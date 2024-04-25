@@ -23,8 +23,9 @@ Week stats:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   32 mins         ████████████████████████░   95.61 %
-Prisma       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+TypeScript   1 hr 47 mins    ████████████████████░░░░░   80.33 %
+Bash         17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
+Prisma       8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
 ```
 
 <!--END_SECTION:waka-->

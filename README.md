@@ -23,8 +23,7 @@ Week stats:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        0 secs          ████████████████████▒░░░░   80.81 %
-TypeScript   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

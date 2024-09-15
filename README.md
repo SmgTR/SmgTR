@@ -23,8 +23,7 @@ Week stats:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 42 mins    ████████████████████████▓   98.86 %
-Prisma       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

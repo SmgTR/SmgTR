@@ -1,36 +1,31 @@
-![MasterHead](https://github.com/SmgTR/SmgTR/blob/main/banner2.png)
+<h2 align="center">👋 Hi, I'm</h2>
+
+<div align="center">
+  <a href="#">
+    <img 
+    src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:1E3A8A,100:3B82F6&text=Tomasz%20Rusnak&fontColor=ffffff" 
+    alt="Tomasz Rusnak header"
+  />
+</div>
+
+<h3 align="center">
+  Software Developer · TypeScript · React · Next.js · Node.js
+</h3>
+
+<p align="center">
+  Currently @ <a href="https://www.teamtailor.com">Teamtailor</a> – working on reliable, scalable integrations.
+</p>
 
 
-## Hi, I’m @SmgTR  <img  alt="Hello" width="20" height="20" src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif">
+<h2>🧰 My Tech Stack</h2>
 
-![](https://komarev.com/ghpvc/?username=SmgTR)
+**Front End:** TypeScript · React · Next.js <br>
+**Back End / APIs:** Node.js · Express <br>
+**Tools & Practices:** Git · CI/CD · Clean Architecture · API Design
 
+<h2>🤝 Connect with Me</h2>
 
-### Contact me:</br>
-
-
-<a href="https://pl.linkedin.com/in/tomasz-rusnak" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp; <a href="mailto:tomaszrusnakjs@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-Languages:</br></br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-</br>
-</br>
-Currently learning:</br></br>
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-Week stats:
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<a href="https://wakatime.com/@fd9276be-5219-40ff-877c-08ffa768c1a9"><img src="https://wakatime.com/badge/user/fd9276be-5219-40ff-877c-08ffa768c1a9.svg" alt="Total time coded since Nov 19 2021" /></a>
-
-<!---
-SmgTR/SmgTR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <a href="https://pl.linkedin.com/in/tomasz-rusnak">LinkedIn</a> · 
+  <a href="https://tomaszrusnak.vercel.app/">Portfolio</a>
+</p>
